@@ -4,9 +4,6 @@ Selamat datang di repositori website portofolio pribadi saya. Proyek ini dibangu
 
 **🚀 Lihat Live Demo:** [https://mhmmdragilpy.github.io](https://mhmmdragilpy.github.io)
 
-![Pratinjau Website](image/situs-preview.png)
-*(Disarankan untuk mengambil screenshot website Anda dan menyimpannya dengan nama `situs-preview.png` di folder `image/` agar pratinjau ini muncul)*
-
 ---
 
 ## ✨ Fitur Utama
