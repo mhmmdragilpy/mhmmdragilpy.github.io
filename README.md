@@ -1,4 +1,4 @@
-# 👋 Website Portofolio - Muhammad Ragil
+# 👋 Website Portofolio
 
 Selamat datang di repositori website portofolio pribadi saya. Proyek ini dibangun untuk menampilkan profil profesional, keahlian, sertifikasi, dan proyek-proyek yang pernah saya kerjakan. Website ini sepenuhnya responsif dan dirancang dengan estetika modern.
 
